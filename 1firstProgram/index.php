@@ -1,5 +1,5 @@
 <?php
-    // This is how you write a note.
+    // This is how you write a comment.
     /*
         Multi-
         -line
